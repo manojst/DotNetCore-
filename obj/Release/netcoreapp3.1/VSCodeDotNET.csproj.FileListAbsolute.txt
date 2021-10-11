@@ -1,0 +1,13 @@
+D:\VSCodeDotNET\bin\Release\netcoreapp3.1\VSCodeDotNET.exe
+D:\VSCodeDotNET\bin\Release\netcoreapp3.1\VSCodeDotNET.deps.json
+D:\VSCodeDotNET\bin\Release\netcoreapp3.1\VSCodeDotNET.runtimeconfig.json
+D:\VSCodeDotNET\bin\Release\netcoreapp3.1\VSCodeDotNET.runtimeconfig.dev.json
+D:\VSCodeDotNET\bin\Release\netcoreapp3.1\VSCodeDotNET.dll
+D:\VSCodeDotNET\bin\Release\netcoreapp3.1\VSCodeDotNET.pdb
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.csprojAssemblyReference.cache
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.AssemblyInfoInputs.cache
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.AssemblyInfo.cs
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.csproj.CoreCompileInputs.cache
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.dll
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.pdb
+D:\VSCodeDotNET\obj\Release\netcoreapp3.1\VSCodeDotNET.genruntimeconfig.cache
