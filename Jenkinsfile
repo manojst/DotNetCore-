@@ -22,7 +22,7 @@ pipeline {
                 checkout([
                     $class: 'GitSCM', 
                     branches: [[name: '*/main']], 
-                    userRemoteConfigs: [[url: 'https://gitlab.training.dagility.com/manojkumar_gnanasekaran/mavenfreestyleevaluation.git']]
+                    userRemoteConfigs: [[url: 'https://gitlab.training.dagility.com/manojkumar_gnanasekaran/dotnetcore.git']]
                 ])
             }
         }
